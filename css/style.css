@@ -1,1 +1,51 @@
 <link rel="stylesheet" type="text/css" href="./css/style.css">
+
+
+.font-size-medium{
+	font-size: 100px;
+}
+.blue-text{
+	color: blue;
+}
+img{
+	height: 300px;
+	width: 200px;
+}
+#this-header{
+	font-size: 100px;
+	color: #E63946;
+	font-family: 'Anton', sans-serif;
+}
+#bad-boy{
+	font-size: 50px;
+	color:#E63946;
+}
+.container{
+	background-color: #A8DADC;
+	padding: 50px;
+}
+.yikes{
+	background-color:#5DFDCB;
+	padding: 30px;
+}
+.font-noto-sans{
+	font-family: 'Noto Sans', sans-serif;
+	}
+.text-container{
+	text-align: center;
+}
+aside {
+  background-color: #6495ED;
+  height: 1200px;
+  width: 300px;
+  padding: 100px;
+  float: right;
+}
+.purple{
+  background-color: #b19cba;
+  padding:50px;
+}
+.blue{
+  background-color: #9cbab2;
+  padding:50px;
+}
