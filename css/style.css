@@ -14,7 +14,7 @@ img{
 #this-header{
 	font-size: 100px;
 	color: #E63946;
-	font-family: 'Anton', sans-serif;
+	font-family: 'Source Code Pro', monospace;
 }
 #bad-boy{
 	font-size: 50px;
@@ -29,7 +29,7 @@ img{
 	padding: 30px;
 }
 .font-noto-sans{
-	font-family: 'Noto Sans', sans-serif;
+	font-family: 'Source Code Pro', monospace;
 	}
 .text-container{
 	text-align: center;
@@ -59,7 +59,8 @@ aside {
 	background-color: #b19cba;
 }
 .eboys-text{
-	font-size:200px;
+	font-size:70px;
+font-family: 'Oswald', sans-serif;}
 
 
 // Extra small devices (portrait phones, less than 576px)
@@ -69,10 +70,10 @@ aside {
 @media (min-width: 576px) { font-size: 40px; }
 
 // Medium devices (tablets, 768px and up)
-@media (min-width: 768px) { font-size: 60px}
+@media (min-width: 768px) { font-size: 60px;}
 
 // Large devices (desktops, 992px and up)
-@media (min-width: 992px) { font-size: 80px }
+@media (min-width: 992px) { font-size: 80px; }
 
 // Extra large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) { font-size: 100px }
+@media (min-width: 1200px) { font-size: 100px; }
